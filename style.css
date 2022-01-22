@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.test{
+    background-image: url(pic.jpg);
+    background-size: cover;
+    filter: brightness(1);
+    height: 100%;
+    width: 100%;
+    overflow:hidden;
+    text-align: center;
+}
+.topbar{
+    display: flex;
+}
+h1{
+    font-family: "Montserrat";
+}
+iframe{
+    
+}
